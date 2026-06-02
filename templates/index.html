@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Gender Detection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Gender Detection using ML</h1>
+
+        <form action="/predict" method="POST">
+            <input type="text" name="name" placeholder="Enter Name" required>
+            <button type="submit">Predict Gender</button>
+        </form>
+
+        <h2>{{ prediction_text }}</h2>
+    </div>
+
+</body>
+
+</html>
