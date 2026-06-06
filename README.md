@@ -4,7 +4,8 @@ This project predicts whether a given person's name is **Male** or **Female** us
 
 ## 📊 Output Screenshot
 
-<!-- IKKADA cursor petti mee screenshot ni CTRL+V (Paste) leda Drag & Drop cheyandi -->
+<img width="1302" height="713" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/a7a21eb3-a8d9-49a4-bf2e-1e7af5ff5ebd" />
+
 
 
 ## 🚀 Features
